@@ -20,6 +20,24 @@ const Alaa = {
     currentFocus: "Building scalable backend systems 🚀"
 };
 
+🔥 # Featured Projects
+
+#### 🎬 StreamFlix - Netflix-like Streaming Platform
+- Full-stack streaming platform with user profiles, subscriptions, and content management
+- JWT authentication, profile PIN protection, and watch history
+- **Tech:** Node.js, Express, MongoDB, Cloudinary
+
+## 🏠 Estatein (Real Estate Business Website)
+
+A modern real estate web application built with **React 19**, **TypeScript**, and **Tailwind CSS 4**.
+
+### ✨ Features
+
+- 🏘️ Property listings with detailed views
+- 🔍 Advanced filtering and search
+- 📊 Admin dashboard for property management
+- 📝 Contact forms for inquiries
+- 📱 Fully responsive design for all devices
 
 
 
