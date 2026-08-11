@@ -8,12 +8,13 @@
 
 ```javascript
 const Alaa = {
-    name: "Alaa ",
+    name: "Alaa Soufi",
+    education: "Informatics Engineer",
     role: "Full-Stack Developer",
     location: "SYRIA",
     languages: ["JavaScript", "TypeScript", "Python"],
     frontend: ["HTML", "CSS", "Tailwind", "React", "Rudex"],
-    backend: ["Node.js", "Express", "NestJS"],
+    backend: ["Node.js", "Express", "NestJS" , "Socket.io"],
     databases: ["MongoDB", "MySQL"],
     interests: ["System Design", "Cloud Computing", "Streaming Platforms", "AI" ],
     currentFocus: "Building scalable backend systems 🚀"
