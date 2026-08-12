@@ -6,7 +6,7 @@
 
 ## About Me
 
-```javascript
+```
 const Alaa = {
     name: "Alaa Soufi",
     education: "Informatics Engineer",
