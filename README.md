@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```javascript
 const Alaa = {
@@ -19,22 +19,22 @@ const Alaa = {
     interests: ["System Design", "Cloud Computing", "Streaming Platforms", "AI" ],
     currentFocus: "Building scalable backend systems 🚀"
 };
-
+```
 ----
 
 🔥 # Featured Projects
 
 #### 🎬 StreamFlix - Netflix-like Streaming Platform
 - Full-stack streaming platform with user profiles, subscriptions (Limited & Unlimited access), and content management
--  **Watch History** with resume playback functionality
--  **Favorites** , **Rating System** & **Watchlist** for personalized content curation
--  **Personalized Recommendations** based on viewing history
+- **Watch History** with resume playback functionality
+- **Favorites** , **Rating System** & **Watchlist** for personalized content curation
+- **Personalized Recommendations** based on viewing history
 - JWT authentication, profile PIN protection, and watch history
+
 - **Tech:** Node.js, Express, MongoDB, Cloudinary
 
 ## 🏠 Estatein (Real Estate Business Website)
 
-A modern real estate web application built with **React 19**, **TypeScript**, and **Tailwind CSS 4**.
 
 ### ✨ Features
 
@@ -43,6 +43,7 @@ A modern real estate web application built with **React 19**, **TypeScript**, an
 - 📊 Admin dashboard for property management
 - 📝 Contact forms for inquiries
 - 📱 Fully responsive design for all devices
+
 -**Tech:** : HTML, Tailwind, React (javascript), Redux
 
 
