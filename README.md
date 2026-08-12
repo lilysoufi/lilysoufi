@@ -38,13 +38,13 @@ const Alaa = {
 
 ### ✨ Features
 
-- 🏘️ Property listings with detailed views
-- 🔍 Advanced filtering and search
-- 📊 Admin dashboard for property management
-- 📝 Contact forms for inquiries
-- 📱 Fully responsive design for all devices
+-  **Property listings** with detailed views
+- **Advanced filtering** and search
+- **Admin dashboard** for property management
+- **Contact forms** for inquiries
+- **Fully responsive design** for all devices
 
--**Tech:** : HTML, Tailwind, React (javascript), Redux
+- **Tech:** : HTML, Tailwind, React (javascript), Redux
 
 
 
