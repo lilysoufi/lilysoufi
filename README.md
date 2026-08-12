@@ -39,5 +39,10 @@ A modern real estate web application built with **React 19**, **TypeScript**, an
 - 📝 Contact forms for inquiries
 - 📱 Fully responsive design for all devices
 
+## 🚀 Featured Projects
 
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🏠 **Estatein** | Real estate web app with React 19, TypeScript, Tailwind CSS 4, Firebase, Redux Toolkit | React, TypeScript, Tailwind CSS, Firebase, Redux | [GitHub](link) |
+| 🎬 **StreamFlix** | Node.js/Express + MongoDB streaming platform with JWT, subscriptions, profiles | Node.js, Express, MongoDB, JWT, Cloudinary | [GitHub](link) |
 
