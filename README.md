@@ -20,10 +20,15 @@ const Alaa = {
     currentFocus: "Building scalable backend systems 🚀"
 };
 
+----
+
 🔥 # Featured Projects
 
 #### 🎬 StreamFlix - Netflix-like Streaming Platform
-- Full-stack streaming platform with user profiles, subscriptions, and content management
+- Full-stack streaming platform with user profiles, subscriptions (Limited & Unlimited access), and content management
+-  **Watch History** with resume playback functionality
+-  **Favorites** , **Rating System** & **Watchlist** for personalized content curation
+-  **Personalized Recommendations** based on viewing history
 - JWT authentication, profile PIN protection, and watch history
 - **Tech:** Node.js, Express, MongoDB, Cloudinary
 
@@ -38,74 +43,8 @@ A modern real estate web application built with **React 19**, **TypeScript**, an
 - 📊 Admin dashboard for property management
 - 📝 Contact forms for inquiries
 - 📱 Fully responsive design for all devices
+-**Tech:** : HTML, Tailwind, React (javascript), Redux
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🏠 **Estatein** | Real estate web app with React 19, TypeScript, Tailwind CSS 4, Firebase, Redux Toolkit | React, TypeScript, Tailwind CSS, Firebase, Redux | [GitHub](link) |
-| 🎬 **StreamFlix** | Node.js/Express + MongoDB streaming platform with JWT, subscriptions, profiles | Node.js, Express, MongoDB, JWT, Cloudinary | [GitHub](link) |
 
-🏠 Estatein - Real Estate Platform
-Overview
-Estatein is a full-featured real estate web application that connects buyers, sellers, and agents through an intuitive, modern interface. The platform streamlines property discovery and management with a focus on user experience and performance.
 
-Technical Highlights
-
-⚛️ Built with React 19 for optimal performance and developer experience
-
-📝 TypeScript for type safety and better code maintainability
-
-🎨 Tailwind CSS 4 for rapid UI development with a utility-first approach
-
-🔥 Firebase integration for authentication and real-time database
-
-🗃️ Redux Toolkit for efficient state management
-
-📱 Fully responsive design that works on all devices
-
-Key Functionality
-
-Property Listings: Browse properties with detailed information including images, price, location, and features
-
-Advanced Filtering: Filter properties by price range, location, property type, and more
-
-Admin Dashboard: Manage properties, users, and inquiries from a centralized dashboard
-
-Contact Forms: Easy-to-use forms for property inquiries and agent contact
-
-User Authentication: Secure login and registration with Firebase Auth
-
-🎬 StreamFlix - Streaming Platform Backend
-Overview
-StreamFlix is a robust, modular backend system designed for a Netflix-like streaming service. It handles everything from user authentication to content delivery, subscription management, and personalized recommendations.
-
-Technical Highlights
-
-🚀 Node.js & Express for a fast, scalable server-side architecture
-
-🍃 MongoDB with Mongoose ODM for flexible data modeling
-
-🔐 JWT for secure user and profile authentication
-
-☁️ Cloudinary integration for media uploads and management
-
-📧 Mailtrap for email testing and notifications
-
-🧩 Modular architecture for maintainability and scalability
-
-Key Functionality
-
-Authentication & Authorization: Secure JWT-based authentication with role-based access control
-
-Multi-Profile System: Each user can have multiple profiles with individual PIN protection
-
-Content Management: Complete CRUD for movies, series, seasons, and episodes
-
-User Interactions: Track watch history, favorites, watchlist, and ratings
-
-Subscription System: Flexible subscription plans with limited or unlimited access
-
-Recommendation Engine: Personalized content suggestions based on viewing history
-
-Kids Mode: Age-appropriate content filtering for children's profiles
