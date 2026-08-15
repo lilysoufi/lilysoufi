@@ -24,7 +24,7 @@ const Alaa = {
 
 # 🔥 Featured Projects
 
-#### 🎬 StreamFlix - Netflix-like Streaming Platform
+## 🎬 StreamFlix - Netflix-like Streaming Platform
 - Full-stack streaming platform with user profiles, subscriptions (Limited & Unlimited access), and content management
 - **Watch History** with resume playback functionality
 - **Favorites** , **Rating System** & **Watchlist** for personalized content curation
