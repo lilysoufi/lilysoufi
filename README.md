@@ -50,4 +50,18 @@ const Alaa = {
 
 Repo:[https://github.com/majd-shbani/Real-Estate-Business-Website.git]
 
+## 🏫 Little Learners - Educational Platform
 
+A comprehensive, multi-page educational website built with **React**. The platform serves as a complete digital presence for an educational institution, showcasing its unique value proposition.
+
+**React | Multi-Page | Responsive Design**
+- Built a fully responsive, multi-page educational website using React
+- Implemented interactive components including:
+  - Testimonials slider for parent feedback
+  - 3-card awards carousel
+  - Staff directory and subject pages
+  - Rooms gallery with visual tour
+- Integrated FAQ accordion and contact form
+- Applied modern UI/UX principles for an engaging user experience
+
+- Repo :[https://github.com/lilysoufi/LittleLearnersVer-1.git]
